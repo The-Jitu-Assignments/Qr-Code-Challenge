@@ -60,3 +60,21 @@ img {
   font-size: 14px;
   color: hsl(220, 15%, 55%);
 }
+
+@media screen and (max-width: 1007px) {
+  .qr--card {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .qr--card {
+    width: 40%;
+  }
+}
+
+@media screen and (min-width: 200px) and (max-width: 500px) {
+  .qr--card {
+    width: 80%;
+  }
+}
