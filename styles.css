@@ -34,6 +34,7 @@ img {
   background-color: hsl(0, 0%, 100%); 
   padding: 1rem;
   border-radius: 10px;
+  box-shadow: 3px 10px 25px -10px #5e5959;
 }
 
 .qr--card__image {
