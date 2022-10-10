@@ -4,7 +4,7 @@ Completed QR Code challenge from frontend Mentor. I built it using HTML and CSS 
 
 ## Preview
 
-[!qr code screenshot]()
+[!qr code screenshot](https://github.com/The-Jitu-Assignments/Qr-Code-Challenge/blob/master/images/qr-code-screenshot.png)
 
 ## Author
 
